@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rod{
+    border-radius: 0.55256rem;
+background: url('./assets/Rectangle\ 31.png'), lightgray 0% 0% / 49.116313457489014px 49.116313457489014px repeat, #8D41F0;
+box-shadow: 2.947px 1.965px 1.965px 0px #A880D9 inset;
+background-color: #8D41F0;
+}
+.rod2{
+    border-radius: 0rem 0rem 0.55256rem 0.55256rem;
+background: #3D166C;
+}
